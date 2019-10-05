@@ -12,13 +12,13 @@ const main = () => {
   const projects = [
     {
       title: "Nutrition App",
-      website: "https://nutrition-application.herokuapp.com",
+      website: "http://nutri-app.us-east-1.elasticbeanstalk.com/analysis",
       github: "https://github.com/floresjmjr/nutriApp",
       description:
         "This application allows a user to search for food items using two USDA databases and see their nutritional breakdown depending on the selected serving size. The quantity of the food item can be added to the food log and the totals calculated. You can also find foods based on a specific nutrient. Graphs and a PieChart helps you visually see your nutrition intake.",
       frontEnd: ["HTML", "CSS", "JavaScript", "jQuery", "D3.js"],
       backEnd: ["Pug", "Node", "Express"],
-      dataDeploy: ["MongoDB(Atlas)", "Heroku"],
+      dataDeploy: ["MongoDB(Atlas)", "AWS Elastic Beanstalk"],
       features: ["Responsive Design", "HTML Validated(W3C)", "USDA API"],
       picture: NutritionPic
     },
@@ -36,13 +36,13 @@ const main = () => {
     },
     {
       title: "Movie Recommender App",
-      website: "https://movie-recommendation-gen.herokuapp.com",
+      website: "http://movie-recommender-app.us-east-1.elasticbeanstalk.com/",
       github: "https://github.com/floresjmjr/movieGen",
       description:
         "This application allows a user to see what movies are trending, popular and highly rated. The user can search for movies and seek recommendations based on that search so that they can be added to the watchlist.",
       frontEnd: ["HTML", "CSS", "JavaScript", "jQuery", "Handlebars"],
       backEnd: ["Pug", "Node", "Express"],
-      dataDeploy: ["Postgresql", "Heroku", "Sequelize"],
+      dataDeploy: ["Postgresql", "AWS Elastic Beanstalk", "Sequelize"],
       features: [
         "Responsive Design",
         "HTML Validated(W3C)",
