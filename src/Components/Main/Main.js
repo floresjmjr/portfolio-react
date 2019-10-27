@@ -42,7 +42,7 @@ const main = () => {
         "This application allows a user to see what movies are trending, popular and highly rated. The user can search for movies and seek recommendations based on that search so that they can be added to the watchlist.",
       frontEnd: ["HTML", "CSS", "JavaScript", "jQuery", "Handlebars"],
       backEnd: ["Pug", "Node", "Express"],
-      dataDeploy: ["Postgresql", "AWS Elastic Beanstalk", "Sequelize"],
+      dataDeploy: ["Postgresql", "Heroku", "Sequelize"],
       features: [
         "Responsive Design",
         "HTML Validated(W3C)",
