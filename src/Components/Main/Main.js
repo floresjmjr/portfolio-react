@@ -36,7 +36,7 @@ const main = () => {
     },
     {
       title: "Movie Recommender App",
-      website: "http://movie-recommender-app.us-east-1.elasticbeanstalk.com/",
+      website: "https://movie-recommendation-gen.herokuapp.com/",
       github: "https://github.com/floresjmjr/movieGen",
       description:
         "This application allows a user to see what movies are trending, popular and highly rated. The user can search for movies and seek recommendations based on that search so that they can be added to the watchlist.",
