@@ -40,6 +40,9 @@ class Nav extends Component {
                   <li> 
                     <a href="https://gist.github.com/floresjmjr/0c11b2250451c6fb176aee9fab71fde8">Event Flow</a>
                   </li>
+                  <li> 
+                    <a href="https://gist.github.com/floresjmjr/58954bc6d564153b12cb591d85318975">Callbacks, Promises, Async & Await</a>
+                  </li>
               </ul>
               <p>
                 <a href="https://twitter.com/floresjmjr">
