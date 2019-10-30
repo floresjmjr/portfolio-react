@@ -27,7 +27,6 @@ class Nav extends Component {
         <div id="profileBox">
           <div id="profile">
             <header>
-              <img src={ProfilePic} alt="profile_pic"/>
               <h3>Jorge Flores</h3>
               <h6 id="profileTitle">Lawyer, Full Stack Developer candidate </h6>
             </header>
