@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import ProfilePic from "../../Images/profile_pic.png";
 import LinkedInPic from "../../Images/linkedin.png";
 import TwitterPic from "../../Images/twitter.png";
 import Toggle from "../../Images/hamburger.png";
