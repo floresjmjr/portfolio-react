@@ -77,7 +77,7 @@ const main = () => {
       frontEnd: ["HTML", "CSS", "JavaScript", "React"],
       backEnd: ["----"],
       dataDeploy: ["Firebase for both"],
-      features: ["Single Page Application", "Responsive Design"],
+      features: ["Responsive Design"],
       picture: ContactMangerPic
     },
   ];
