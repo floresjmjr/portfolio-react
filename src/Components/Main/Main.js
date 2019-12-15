@@ -5,6 +5,7 @@ import NutritionPic from "../../Images/nutriApp.png";
 import EcommercePic from "../../Images/e-commerce.png";
 import MovieGenPic from "../../Images/movieGenApp.png";
 import ContactMangerPic from "../../Images/contactManager.png";
+import RealEstate from "../../Images/real-estate.png";
 import TodoPic from "../../Images/todoApp.png";
 
 
@@ -50,6 +51,21 @@ const main = () => {
         "The Open Movie Database API"
       ],
       picture: MovieGenPic
+    },
+    {
+      title: "Real Estate App",
+      website: "64.225.3.231",
+      github: "https://github.com/floresjmjr/real-estate",
+      description:
+        "This application allows a user to register an account, search for property listings, and make inquiries on those properties to registered realtors.",
+      frontEnd: ["HTML", "CSS", "JavaScript", "jQuery"],
+      backEnd: ["Python", "Django"],
+      dataDeploy: ["Postgresql", "Digital Ocean", "Ngnix", "Gunicorn"],
+      features: [
+        "Authentication",
+        "Content Management System"
+      ],
+      picture: RealEstate
     },
     {
       title: "Task Manager App",
