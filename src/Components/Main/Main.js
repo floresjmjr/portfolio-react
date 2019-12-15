@@ -54,7 +54,7 @@ const main = () => {
     },
     {
       title: "Real Estate App",
-      website: "64.225.3.231",
+      website: "http://64.225.3.231",
       github: "https://github.com/floresjmjr/real-estate",
       description:
         "This application allows a user to register an account, search for property listings, and make inquiries on those properties to registered realtors.",
