@@ -13,7 +13,7 @@ const main = () => {
   const projects = [
     {
       title: "Nutrition App",
-      website: "http://nutri-app.us-east-1.elasticbeanstalk.com/analysis",
+      website: "",
       github: "https://github.com/floresjmjr/nutriApp",
       description:
         "This application allows a user to search for food items using two USDA databases and see their nutritional breakdown depending on the selected serving size. The quantity of the food item can be added to the food log and the totals calculated. You can also find foods based on a specific nutrient. Graphs and a PieChart helps you visually see your nutrition intake.",
@@ -37,7 +37,7 @@ const main = () => {
     },
     {
       title: "Movie Recommender App",
-      website: "https://movie-recommendation-gen.herokuapp.com/",
+      website: "",
       github: "https://github.com/floresjmjr/movieGen",
       description:
         "This application allows a user to see what movies are trending, popular and highly rated. The user can search for movies and seek recommendations based on that search so that they can be added to the watchlist.",
@@ -54,7 +54,7 @@ const main = () => {
     },
     {
       title: "Real Estate App",
-      website: "http://64.225.3.231",
+      website: "",
       github: "https://github.com/floresjmjr/real-estate",
       description:
         "This application allows a user to register an account, search for property listings, and make inquiries on those properties to registered realtors.",
@@ -69,7 +69,7 @@ const main = () => {
     },
     {
       title: "Task Manager App",
-      website: "https://multiview-todo-app.herokuapp.com",
+      website: "",
       github: "https://github.com/floresjmjr/postgresql_todo_app",
       description:
         "This application allows you to add, edit, and delete any tasks you choose. You also have the ability to select by date which tasks to see, edit and delete. The main display updates as you navigate the application.",

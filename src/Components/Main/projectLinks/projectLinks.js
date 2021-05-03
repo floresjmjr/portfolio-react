@@ -2,6 +2,12 @@ import React from "react";
 
 const projectLinks = props => {
   
+  let website = ''
+  if(props.website) {
+    website = ( <a href={props.website} rel="noopener noreferrer" target="">Visit Page</a>)
+  } else {
+    website = (<p>Visit Page</p>)
+  }
 
   return (
     <div className="projectLinksContainer">
@@ -14,9 +20,7 @@ const projectLinks = props => {
         </a>
         <div className="buttons">
           <div className="leftButton">
-            <a href={props.website} rel="noopener noreferrer" target="_blank">
-              Visit Page
-            </a>
+            {website}
           </div>
           <div className="rightButton">
             <a href={props.github} rel="noopener noreferrer" target="_blank">
