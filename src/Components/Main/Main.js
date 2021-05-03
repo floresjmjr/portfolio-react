@@ -53,21 +53,6 @@ const main = () => {
       picture: MovieGenPic
     },
     {
-      title: "Real Estate App",
-      website: "",
-      github: "https://github.com/floresjmjr/real-estate",
-      description:
-        "This application allows a user to register an account, search for property listings, and make inquiries on those properties to registered realtors.",
-      frontEnd: ["HTML", "CSS", "JavaScript", "jQuery"],
-      backEnd: ["Python", "Django"],
-      dataDeploy: ["Postgresql", "Digital Ocean", "Ngnix", "Gunicorn"],
-      features: [
-        "Authentication",
-        "Content Management System"
-      ],
-      picture: RealEstate
-    },
-    {
       title: "Task Manager App",
       website: "",
       github: "https://github.com/floresjmjr/postgresql_todo_app",
