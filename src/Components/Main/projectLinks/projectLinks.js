@@ -12,12 +12,10 @@ const projectLinks = props => {
   return (
     <div className="projectLinksContainer">
       <div className="projectLinks">
-        <a href={props.website} rel="noopener noreferrer" target="_blank">
           <img
             src={props.picture}
             alt="thumbnail of nutrition application"
           />
-        </a>
         <div className="buttons">
           <div className="leftButton">
             {website}

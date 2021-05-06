@@ -5,7 +5,6 @@ import NutritionPic from "../../Images/nutriApp.png";
 import EcommercePic from "../../Images/e-commerce.png";
 import MovieGenPic from "../../Images/movieGenApp.png";
 import ContactMangerPic from "../../Images/contactManager.png";
-import RealEstate from "../../Images/real-estate.png";
 import TodoPic from "../../Images/todoApp.png";
 
 
