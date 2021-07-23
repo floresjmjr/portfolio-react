@@ -12,7 +12,7 @@ const main = () => {
   const projects = [
     {
       title: "Nutrition App",
-      website: "",
+      website: "https://nutri-app-node-js.herokuapp.com",
       github: "https://github.com/floresjmjr/nutriApp",
       description:
         "This application allows a user to search for food items using two USDA databases and see their nutritional breakdown depending on the selected serving size. The quantity of the food item can be added to the food log and the totals calculated. You can also find foods based on a specific nutrient. Graphs and a PieChart helps you visually see your nutrition intake.",
@@ -70,7 +70,7 @@ const main = () => {
     },
     {
       title: "Contact Manager App",
-      website: "https://contact-manager-jf.firebaseapp.com",
+      website: "https://contact-manager-jf.web.app",
       github: "https://github.com/floresjmjr/contactManager-react",
       description:
         "This application allows you to add, edit, update, delete as well as search your contacts. You can also add tags to categorize your contacts.",
