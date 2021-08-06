@@ -18,8 +18,8 @@ const main = () => {
         "This application allows a user to search for food items using two USDA databases and see their nutritional breakdown depending on the selected serving size. The quantity of the food item can be added to the food log and the totals calculated. You can also find foods based on a specific nutrient. Graphs and a PieChart helps you visually see your nutrition intake.",
       frontEnd: ["HTML", "CSS", "JavaScript", "jQuery", "D3.js"],
       backEnd: ["Pug", "Node", "Express"],
-      dataDeploy: ["MongoDB(Atlas)", "AWS Elastic Beanstalk"],
-      features: ["Responsive Design", "HTML Validated(W3C)", "USDA API"],
+      dataDeploy: ["MongoDB(Atlas)", "Heroku"],
+      features: ["Responsive Design", "USDA API"],
       picture: NutritionPic
     },
     {
@@ -45,7 +45,6 @@ const main = () => {
       dataDeploy: ["Postgresql", "Heroku", "Sequelize"],
       features: [
         "Responsive Design",
-        "HTML Validated(W3C)",
         "The Movie Database API",
         "The Open Movie Database API"
       ],
